@@ -64,7 +64,7 @@ Data Source: https://github.com/nytimes/covid-19-data/tree/master/mask-use
 
 ## Findings
 Visualizing the number of confirmed COVID-19 cases and the new daily case count in Essex County, New Jersey, we can see that the number of cases is exceedling high. There is a large spike in the number of cases of COVID-19 in March 2020, which helps to explain the motivation for educators to make the hard decision of closing all schools for the remainder of  the year. We can see that after a steep decline during the summer, there is yet another spike in the number of new cases when schools reopen in the fall of 2020.
-![image](https://user-images.githubusercontent.com/73403238/145731234-9b57cf92-9f23-4e9a-a9e8-68a52b1f4099.png)
+![masking combined](https://user-images.githubusercontent.com/73403238/145731522-e84459b4-a335-4488-bb4c-5df78301991b.png)
 Figure 1: COVID-19 Confirmed Cases and New Daily Case Count in Essex County, New Jersey
 
 #### Student Enrollment
