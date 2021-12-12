@@ -64,23 +64,23 @@ Data Source: https://github.com/nytimes/covid-19-data/tree/master/mask-use
 
 ## Findings
 Visualizing the number of confirmed COVID-19 cases and the new daily case count in Essex County, New Jersey, we can see that the number of cases is exceedling high. There is a large spike in the number of cases of COVID-19 in March 2020, which helps to explain the motivation for educators to make the hard decision of closing all schools for the remainder of  the year. We can see that after a steep decline during the summer, there is yet another spike in the number of new cases when schools reopen in the fall of 2020.
-***
+![image](https://user-images.githubusercontent.com/73403238/145731234-9b57cf92-9f23-4e9a-a9e8-68a52b1f4099.png)
 Figure 1: COVID-19 Confirmed Cases and New Daily Case Count in Essex County, New Jersey
 
 #### Student Enrollment
 Reviewing student enrollment, on average there was not a significant change between grades for the varying school years. The three grades that displayed the most change were grades 3, 6, and 7. When comparing the 2018-2019 and 2019-2020 school years, Grade 3 displayed an average decrease of 7 students per school, Grade 6 had an average decrease of 2 students per school, and Grade 7 actually had an average increase of 1 student per school. Overall, these results did not show any significant change in the average school enrollment over the last 3 school years, and COVID-19 does not seem to have an impact on the 2019-2020 average school enrollment.
-***
+![image](https://user-images.githubusercontent.com/73403238/145731236-91f99247-71f2-4537-a571-02a2e7d5440e.png)
 Figure 2: Student Enrollment by Grade
 This visualization is filtered to display the grades with the greatest change in average school enrollment, grades 3, 6, and 7.
 
 #### Test Scores
 Overall, there does not appear to be any significant change in average school test scores for schools in Essex County, New Jersey. When comparing the 2019-2020 COVID-19 impacted school year to the previous two school years, there weren't really any clear distinctions. The group with the largest change in test score was the math subject. When comparing average test scores for 2018-2019 and 2019-2020, I found that the average ACT score decreased by 0.29, the average SAT score decreased by 5.09, while the average PSAT actually increased by 1.99.
-***
+![image](https://user-images.githubusercontent.com/73403238/145731240-e80cf955-9189-454f-b7d1-614426652139.png)
 Figure 3: Average Math Test Scores by School Year
 
 #### Graduation Rates
 Overall, graduation rates show a steady upward trend over the last 5 years. The 2019-2020 COVID-19 pandemic impacted school year did not appear to disrupt this trend. Comparing the 2019 and 2020 graduation rates, the data shows a slight increase of 0.7% in average graduation rate for schools in Essex County, New Jersey.
-***
+![image](https://user-images.githubusercontent.com/73403238/145731247-d7c69e25-82b2-4ec0-81c4-59e05b8b45f0.png)
 Fig 4: Graduation Rates for 4-Year and 5-Year Cohorts, 2016-2020.
 
 Accumulating all of the above metrics into a final dashboard, there does not appear to be any significant change in the education when comparing previous school years to the 2019-2020 COVID-19 impacted school year. 
