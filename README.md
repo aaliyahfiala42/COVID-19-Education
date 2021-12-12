@@ -101,7 +101,11 @@ Ideally this analysis would contain data from the 2020-2021 school year and beyo
 
 ## References
 2021 building a grad nation report. America's Promise. (n.d.). Retrieved December 10, 2021, from https://www.americaspromise.org/report/2021-building-grad-nation-report.
+
 Centers for Disease Control and Prevention. (n.d.). U.S. state and territorial public mask mandates from April 10, 2020 through August 15, 2021 by County by day. Centers for Disease Control and Prevention. Retrieved December 10, 2021, from https://data.cdc.gov/Policy-Surveillance/U-S-State-and-Territorial-Public-Mask-Mandates-Fro/62d6-pm5i.
+
 Chatterji, P., & Li, Y. (2021, May 7). Effects of covid-19 on school enrollment. Economics of Education Review. Retrieved December 10, 2021, from https://www.sciencedirect.com/science/article/pii/S0272775721000479.
+
 Kuhfeld, M., Soland, J., Tarasawa, B., Johnson, A., Ruzek, E., & Lewis, K. (2020, December 3). How is covid-19 affecting student learning? Brookings. Retrieved December 10, 2021, from https://www.brookings.edu/blog/brown-center-chalkboard/2020/12/03/how-is-covid-19-affecting-student-learning/.
+
 School responses in New Jersey to the coronavirus (COVID-19) pandemic. Ballotpedia. (n.d.). Retrieved December 10, 2021, from https://ballotpedia.org/School_responses_in_New_Jersey_to_the_coronavirus_(COVID-19)_pandemic#Timeline_by_school_year. 
