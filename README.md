@@ -96,6 +96,7 @@ Although I was not able to find any significant results in the impact of COVID-1
 
 ## Limitations
 There were many potential issues and limitations to the dataset that I used. Due to the COVID-19 pandemic, there were cancellations of several tests and changes in testing requirements. Unfortunately, this was not well documented and varied significantly between schools. Another known issue in the dataset is delays in graduation and changes in graduation requirements due to COVID-19. This is also not well documented, and varies greatly between school, and individuals. Overally, schools administered different policies when it came to how they handled the pandemic, and it is difficult to take into account these variances when aggregating to an average level for the county.
+
 Ideally this analysis would contain data from the 2020-2021 school year and beyond, to review how COVID-19 continues to impact education. Currently, the only data publicly available goes up to the 2019-2020 school year. Another limitation to the data is this only reviews the public school data, as private and homeschooled students do not have their data so easily available.
 
 
